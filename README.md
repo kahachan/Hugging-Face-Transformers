@@ -1,6 +1,8 @@
 # Introduction to Natural Language Processing with Hugging Face Transformers
 
-![NLP with Hugging Face Transformers](https://i.pinimg.com/564x/96/23/1b/96231b13de41cc41406003c49cbbee65.jpg)
+<p align="center">
+  <img src="https://i.pinimg.com/564x/96/23/1b/96231b13de41cc41406003c49cbbee65.jpg">
+</p>
 
 Author: [@Svitlana Kramar](https://github.com/svitlana-kramar)
 
