@@ -27,5 +27,3 @@ This project is designed to provide a hands-on experience with Hugging Face Tran
 
 - Python
 - Hugging Face Transformers
-
-![Your Image Alt Text](https://i.pinimg.com/564x/16/ed/e5/16ede55f90b97b3bd142f462022818df.jpg)
