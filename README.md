@@ -1,6 +1,6 @@
 # Introduction to Natural Language Processing with Hugging Face Transformers
 
-![NLP with Hugging Face Transformers](https://raw.githubusercontent.com/your-username/your-repository/main/nlp-hugging-face.jpg)
+![NLP with Hugging Face Transformers](https://i.pinimg.com/564x/96/23/1b/96231b13de41cc41406003c49cbbee65.jpg)
 
 Author: [@Svitlana Kramar](https://github.com/svitlana-kramar)
 
@@ -28,4 +28,4 @@ This project is designed to provide a hands-on experience with Hugging Face Tran
 - Python
 - Hugging Face Transformers
 
-![Your Image Alt Text]([https://raw.githubusercontent.com/your-username/your-repository/main/your-image-file.jpg](https://i.pinimg.com/564x/16/ed/e5/16ede55f90b97b3bd142f462022818df.jpg)https://i.pinimg.com/564x/16/ed/e5/16ede55f90b97b3bd142f462022818df.jpg)
+![Your Image Alt Text](https://i.pinimg.com/564x/16/ed/e5/16ede55f90b97b3bd142f462022818df.jpg)
